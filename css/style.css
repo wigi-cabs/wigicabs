@@ -56,6 +56,9 @@ html {
     position: sticky;
 
 }
+.gallery5{
+    text-align: justify;
+}
 
 .nav-list li {
     list-style: none;
